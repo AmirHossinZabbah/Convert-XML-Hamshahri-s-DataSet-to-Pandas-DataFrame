@@ -21,4 +21,3 @@ for i in range (int(len(docs) / 101)):
     doc_ = []
 
 df = pd.DataFrame(doc_content)
-print(df, coloumn)
